@@ -5,6 +5,10 @@ __pycache__/
 
 # Data 
 data/
+pyproject.toml
+
+# Poetry
+poetry.lock
 
 # C extensions
 *.so
